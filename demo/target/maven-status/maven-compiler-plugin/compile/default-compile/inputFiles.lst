@@ -1,3 +1,6 @@
-/home/centos7/Desktop/demo/src/main/java/com/example/wordcloud/WordReducer.java
-/home/centos7/Desktop/demo/src/main/java/com/example/wordcloud/WordMapper.java
-/home/centos7/Desktop/demo/src/main/java/com/example/App.java
+/home/centos7/BigDataStudyBook/demo/src/main/java/com/example/mapper/TheMapper.java
+/home/centos7/BigDataStudyBook/demo/src/main/java/com/example/App.java
+/home/centos7/BigDataStudyBook/demo/src/main/java/com/example/partitioner/FirstPartitioner.java
+/home/centos7/BigDataStudyBook/demo/src/main/java/com/example/comparator/KeyComparator.java
+/home/centos7/BigDataStudyBook/demo/src/main/java/com/example/reducer/TheReducer.java
+/home/centos7/BigDataStudyBook/demo/src/main/java/com/example/stock/IntPair.java

@@ -1,3 +1,6 @@
-com/example/wordcloud/WordMapper.class
-com/example/wordcloud/WordReducer.class
+com/example/partitioner/FirstPartitioner.class
+com/example/mapper/TheMapper.class
 com/example/App.class
+com/example/stock/IntPair.class
+com/example/reducer/TheReducer.class
+com/example/comparator/KeyComparator.class
