@@ -1,0 +1,6 @@
+com\example\partitioner\MR_Join_Partitioner.class
+com\example\comparator\MR_Join_Comparator.class
+com\example\reducer\MR_Join_Reducer.class
+com\example\mapper\MR_Join_Mapper.class
+com\example\App.class
+com\example\writablecomparable\TextPair.class

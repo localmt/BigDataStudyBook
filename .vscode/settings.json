@@ -1,4 +1,8 @@
 {
     "java.compile.nullAnalysis.mode": "disabled",
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "demo02/demo2/src/main/java/com/example/writablecomparable",
+        "demo02/demo2/src/main/java"
+    ]
 }
